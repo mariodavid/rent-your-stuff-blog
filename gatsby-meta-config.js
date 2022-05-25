@@ -17,9 +17,9 @@
 
 /** @type {MetaConfig} */
 const metaConfig = {
-  title: "Dev Ed",
-  description: `Ed's Blog`,
-  author: "Ed",
+  title: "Rent your Stuff - Jmix Video Series",
+  description: `A video series about how to build a real world app in the rental business with Jmix.`,
+  author: "Mario David",
   siteUrl: "https://gatsby-starter-apple.netlify.app",
   lang: "en",
   utterances: "sungik-choi/gatsby-starter-apple-comment",

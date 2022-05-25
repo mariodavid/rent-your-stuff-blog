@@ -10,6 +10,7 @@ import { rhythm } from "Styles/typography"
 import Category from "Styles/category"
 import DateTime from "Styles/dateTime"
 import Markdown from "Styles/markdown"
+import Video from 'Components/video'
 
 interface BlogPostProps {
   data: Query
@@ -18,7 +19,7 @@ interface BlogPostProps {
 const BlogPost: React.FC<BlogPostProps> = ({ data }) => {
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark!
-  const { title, desc, thumbnail, date, category } = frontmatter!
+  const { title, desc, thumbnail, date, category, videoSrcURL, videoTitle } = frontmatter!
 
   const ogImagePath = thumbnail && thumbnail?.childImageSharp?.gatsbyImageData?.src
 
@@ -42,6 +43,10 @@ const BlogPost: React.FC<BlogPostProps> = ({ data }) => {
                 <Markdown
                   dangerouslySetInnerHTML={{ __html: html ?? "" }}
                   rhythm={rhythm}
+                />
+                <h1>{videoTitle}</h1>
+                <Video
+                    videoSrcURL={videoSrcURL}
                 />
               </div>
             </InnerWrapper>
@@ -146,6 +151,7 @@ export const query = graphql`query ($slug: String!) {
       }
       date(formatString: "YYYY-MM-DD")
       category
+      videoSrcURL
     }
   }
 }

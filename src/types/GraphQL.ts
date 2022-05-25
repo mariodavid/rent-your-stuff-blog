@@ -3222,6 +3222,7 @@ export type MarkdownRemarkFrontmatter = {
   desc?: Maybe<Scalars['String']>;
   thumbnail?: Maybe<File>;
   title?: Maybe<Scalars['String']>;
+  videoSrcURL: Maybe<Scalars['String']>;
 };
 
 
