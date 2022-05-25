@@ -18,10 +18,11 @@ import MenuIcon from "./menuIcon"
 
 interface NavBarProps {
   title?: string | null
+  icon?: string | null
   themeToggler: UseThemeReturnType["themeToggler"]
 }
 
-const NavBar: React.FC<NavBarProps> = ({ title, themeToggler }) => {
+const NavBar: React.FC<NavBarProps> = ({ title, icon, themeToggler }) => {
   const { menuLinks } = useSiteMetadata()
   const { device } = useContext(ThemeContext)
   const navRef = useRef<HTMLElement>(null)
@@ -40,7 +41,9 @@ const NavBar: React.FC<NavBarProps> = ({ title, themeToggler }) => {
       <NavBackground toggle={toggle} />
       <Content>
         <Title onClick={() => setToggle(false)}>
-          <Link to="/">{title}</Link>
+          <Link to="/">
+            {title} <img src={icon} width="32px" />
+          </Link>
         </Title>
         <LinkWrap>
           <Curtain ref={curtainRef} toggle={toggle} />

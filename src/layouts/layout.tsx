@@ -8,28 +8,29 @@ import NavBar from "Components/navBar/navBar"
 import styledTheme from "Styles/styledTheme"
 import GlobalStyle from "Styles/globalStyle"
 import packageJSON from "../../package.json"
+import homeIconWhite from "../images/icon-white.png"
+import homeIconBlack from "../images/icon.png"
 
 const { name, homepage } = packageJSON
 
 const Layout: React.FC = ({ children }) => {
   const { theme, themeToggler } = useTheme()
   const { title, author } = useSiteMetadata()
-  const copyrightStr = `Copyright © ${author}. Built with `
+  const copyrightStr = `Copyright © ${author}.`
+
+  const homeIcon = theme === "light" ? homeIconBlack : homeIconWhite;
 
   return (
     <ThemeProvider theme={styledTheme}>
       <ThemeContext.Provider value={theme}>
         <GlobalStyle />
         <Container>
-          <NavBar title={title} themeToggler={themeToggler} />
+          <NavBar title={title} themeToggler={themeToggler} icon={homeIcon} />
           {children}
         </Container>
         <Footer role="contentinfo">
           <Copyright aria-label="Copyright">
             {copyrightStr}
-            <RepoLink href={homepage} target="__blank">
-              {name}
-            </RepoLink>
           </Copyright>
         </Footer>
       </ThemeContext.Provider>

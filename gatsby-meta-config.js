@@ -20,11 +20,11 @@ const metaConfig = {
   title: "Rent your Stuff - Jmix Video Series",
   description: `A video series about how to build a real world app in the rental business with Jmix.`,
   author: "Mario David",
-  siteUrl: "https://gatsby-starter-apple.netlify.app",
+  siteUrl: "https://rent-your-stuff.netlify.app",
   lang: "en",
-  utterances: "sungik-choi/gatsby-starter-apple-comment",
+  utterances: "mariodavid/rent-your-stuff-blog",
   links: {
-    github: "https://github.com/sungik-choi/gatsby-starter-apple",
+    github: "https://github.com/mariodavid/rent-your-stuff",
   },
   favicon: "src/images/icon.png",
 }

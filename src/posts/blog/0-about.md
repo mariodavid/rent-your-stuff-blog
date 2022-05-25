@@ -1,16 +1,12 @@
 ---
 title: "#0 - About"
-category: "Something"
-date: "2020-01-21 12:00:00 +09:00"
+category: "Intro"
+date: "2021-01-21 12:00:00 +09:00"
 desc: "About the Jmix 'Rent your Stuff' Video Series"
-thumbnail: "./images/episode-0.png"
+thumbnail: "./images/issue-0.jpg"
 alt: "#0 - About the Jmix 'Rent your Stuff' Video Series"
 videoSrcURL: https://www.youtube.com/embed/D9cD63DR3ok
 ---
-
-## #0 - About the Jmix 'Rent your Stuff' Video Series
-
-Issue #0 - About the "Rent your Stuff" Video Series
 
 This video talks about the upcoming video series "Rent your Stuff" and the ideas behind it. Mainly those are:
 

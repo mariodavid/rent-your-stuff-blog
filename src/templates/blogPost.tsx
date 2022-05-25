@@ -19,7 +19,7 @@ interface BlogPostProps {
 const BlogPost: React.FC<BlogPostProps> = ({ data }) => {
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark!
-  const { title, desc, thumbnail, date, category, videoSrcURL, videoTitle } = frontmatter!
+  const { title, desc, thumbnail, date, category, videoSrcURL } = frontmatter!
 
   const ogImagePath = thumbnail && thumbnail?.childImageSharp?.gatsbyImageData?.src
 
@@ -44,7 +44,6 @@ const BlogPost: React.FC<BlogPostProps> = ({ data }) => {
                   dangerouslySetInnerHTML={{ __html: html ?? "" }}
                   rhythm={rhythm}
                 />
-                <h1>{videoTitle}</h1>
                 <Video
                     videoSrcURL={videoSrcURL}
                 />
