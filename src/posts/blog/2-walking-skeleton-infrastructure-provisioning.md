@@ -1,6 +1,6 @@
 ---
 title: "#2 - Walking Skeleton - Infrastructure Provisioning"
-category: "Walking Skeleton"
+category: "Infrastructure"
 date: "2021-01-26 09:00:00 +02:00"
 desc: "Walking Skeleton - Infrastructure Provisioning"
 thumbnail: "./images/issue-2.jpg"
