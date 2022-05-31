@@ -42,6 +42,7 @@ const corePlugins = [
       path: `${__dirname}/src/images`,
     },
   },
+  `gatsby-plugin-styled-components`
 ]
 
 const devPlugins = [

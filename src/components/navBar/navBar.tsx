@@ -16,6 +16,9 @@ import LinkList from "./linkList"
 import ThemeToggleButton from "./themeToggleButton"
 import MenuIcon from "./menuIcon"
 
+import Search from "../search/"
+const searchIndices = [{ name: `Pages`, title: `Pages` }]
+
 interface NavBarProps {
   title?: string | null
   icon?: string | null
@@ -45,6 +48,8 @@ const NavBar: React.FC<NavBarProps> = ({ title, icon, themeToggler }) => {
             {title} <img src={icon} width="32px" />
           </Link>
         </Title>
+
+        <Search indices={searchIndices} />
         <LinkWrap>
           <Curtain ref={curtainRef} toggle={toggle} />
           <LinkContent>

@@ -10,7 +10,6 @@ import GlobalStyle from "Styles/globalStyle"
 import packageJSON from "../../package.json"
 import homeIconWhite from "../images/icon-white.png"
 import homeIconBlack from "../images/icon.png"
-
 const { name, homepage } = packageJSON
 
 const Layout: React.FC = ({ children }) => {

@@ -17,10 +17,6 @@ e
 5src/components/navBar/themeToggleButton/themeIcon.tsx,f/4/f48e85a168a2d142c79e34275093474c9c053468
 P
  src/components/navBar/useMenu.ts,7/5/75d68a0abb7d9c4bc509d584422c47f20ff307ab
-P
- src/components/navBar/navBar.tsx,7/0/70c095e249a35bc2df871362046457611c3298c5
-F
-src/layouts/layout.tsx,1/1/11266fc22f1ef5614f33dabcbf0784f90024b39c
 m
 =src/components/navBar/themeToggleButton/themeToggleButton.tsx,e/f/ef5b72b5ba78608756cb04e06b3ab9070d24922c
 J
