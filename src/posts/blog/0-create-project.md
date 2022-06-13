@@ -8,10 +8,10 @@ alt: "#0 - Walking Skeleton - Create Project"
 videoSrcURL: https://www.youtube.com/embed/Eqzgb0f7KEQ
 ---
 
-In this issue we will create the very first part of a walking skeleton (https://wiki.c2.com/?WalkingSkeleton) which is to:
+In this issue we will create the very first part of a [walking skeleton](https://wiki.c2.com/?WalkingSkeleton) which is to:
 
 * create Jmix project
 * create git repository locally
-* introduce shorcut-viewer so that you can see what I press
+* introduce shortcut-viewer ([KeyCastr](https://github.com/keycastr/keycastr)) so that you can see what I press
 * create GitHub project via "gh" CLI (https://cli.github.com/)
 * push the initial commit to GitHub via CLI

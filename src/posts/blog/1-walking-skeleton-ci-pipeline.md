@@ -8,7 +8,7 @@ alt: "#1 - Walking Skeleton - CI pipeline"
 videoSrcURL: https://www.youtube.com/embed/8ja3Ea7LROA
 ---
 
-In this issue we will create the first part of a walking skeleton (https://wiki.c2.com/?WalkingSkeleton) which is to:
+In this issue we will create the first part of a [walking skeleton](https://wiki.c2.com/?WalkingSkeleton) which is to:
 
 * have GitHub Issue template in place
 * CI pipeline using GitHub Actions
