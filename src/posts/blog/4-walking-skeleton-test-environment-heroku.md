@@ -1,8 +1,8 @@
 ---
 title: "#4 - Walking Skeleton - Test Environment on Heroku"
-category: "Database"
-date: "2021-01-26 09:00:00 +02:00"
-desc: "Walking Skeleton - Test Environment on Heroku
+category: "Infrastructure"
+date: "2021-01-31 09:00:00 +02:00"
+desc: "Walking Skeleton - Test Environment on Heroku"
 thumbnail: "./images/issue-4.jpg"
 alt: "#4 - Walking Skeleton - Test Environment on Heroku"
 videoSrcURL: https://www.youtube.com/embed/saJ8koAOxZ4

@@ -1,6 +1,6 @@
 ---
 title: "#0 - Create Project"
-category: "Walking Skeleton"
+category: "Intro"
 date: "2021-01-21 13:00:00 +02:00"
 desc: "Walking Skeleton - Create Project"
 thumbnail: "./images/issue-0.jpg"

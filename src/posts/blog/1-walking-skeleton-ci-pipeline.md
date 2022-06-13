@@ -1,6 +1,6 @@
 ---
 title: "#1 - Walking Skeleton - CI pipeline"
-category: "Walking Skeleton"
+category: "CI/CD"
 date: "2021-01-21 14:00:00 +02:00"
 desc: "Walking Skeleton - CI pipeline"
 thumbnail: "./images/issue-1.jpg"

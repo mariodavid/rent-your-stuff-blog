@@ -1,8 +1,8 @@
 ---
 title: "#3 - Walking Skeleton - Use PostgreSQL as database"
 category: "Database"
-date: "2021-01-26 09:00:00 +02:00"
-desc: "Walking Skeleton - Use PostgreSQL as database
+date: "2021-01-29 09:00:00 +02:00"
+desc: "Walking Skeleton - Use PostgreSQL as database"
 thumbnail: "./images/issue-3.jpg"
 alt: "#3 - Walking Skeleton - Use PostgreSQL as database"
 videoSrcURL: https://www.youtube.com/embed/OvIc2x1X-9g
