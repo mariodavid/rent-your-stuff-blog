@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-apple",
+  "name": "rent-your-stuff-blog",
   "version": "2.0.0",
-  "description": "Gatsby blog starter kit with beautiful and responsive design",
+  "description": "Rent-your-stuff.de blog containing the video Series for learning Jmix",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -34,7 +34,6 @@
     "gatsby-plugin-typography": "^4.4.0",
     "gatsby-remark-copy-linked-files": "^5.4.0",
     "gatsby-remark-images": "^6.4.0",
-    "gatsby-remark-vscode": "^3.3.0",
     "gatsby-source-filesystem": "^4.4.0",
     "gatsby-transformer-remark": "^5.4.0",
     "gatsby-transformer-sharp": "^4.4.0",
