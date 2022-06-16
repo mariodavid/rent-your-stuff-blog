@@ -1,7 +1,7 @@
 ---
 title: "#8 - Ensure customers are loaded in UI"
 category: "Testing"
-date: "2021-02-12 09:00:00 +02:00"
+date: "2022-02-12 09:00:00 +02:00"
 desc: "Ensure customers are loaded in UI"
 thumbnail: "./images/issue-8.jpg"
 alt: "#8 - Ensure customers are loaded in UI"

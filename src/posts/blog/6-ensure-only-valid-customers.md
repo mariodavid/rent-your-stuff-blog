@@ -1,7 +1,7 @@
 ---
 title: "#6 - Ensure only valid Customers can be stored"
 category: "Testing"
-date: "2021-02-06 09:00:00 +02:00"
+date: "2022-02-06 09:00:00 +02:00"
 desc: "Ensure only valid Customers can be stored"
 thumbnail: "./images/issue-6.jpg"
 alt: "#6 - Ensure only valid Customers can be stored"

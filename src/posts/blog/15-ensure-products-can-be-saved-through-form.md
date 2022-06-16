@@ -1,7 +1,7 @@
 ---
 title: "#15 - Ensure products can be saved with Prices via the Form"
 category: "Testing"
-date: "2021-03-01 09:00:00 +02:00"
+date: "2022-03-01 09:00:00 +02:00"
 desc: "Ensure products can be saved with Prices via the Form"
 thumbnail: "./images/issue-15.jpg"
 alt: "#15 - Ensure products can be saved with Prices via the Form"

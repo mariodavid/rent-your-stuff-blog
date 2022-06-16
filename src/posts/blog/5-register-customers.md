@@ -1,7 +1,7 @@
 ---
 title: "#5 - Register Customers"
 category: "Intro"
-date: "2021-02-03 09:00:00 +02:00"
+date: "2022-02-03 09:00:00 +02:00"
 desc: "Register Customers"
 thumbnail: "./images/issue-5.jpg"
 alt: "#5 - Register Customers"

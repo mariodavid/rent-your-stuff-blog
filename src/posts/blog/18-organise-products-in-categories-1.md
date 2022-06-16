@@ -1,7 +1,7 @@
 ---
 title: "#18 - organise Products in Categories - Part 1"
 category: "Entity"
-date: "2021-03-10 09:00:00 +02:00"
+date: "2022-03-10 09:00:00 +02:00"
 desc: "Organise Products in Categories - Part 1"
 thumbnail: "./images/issue-18.jpg"
 alt: "#18 - organise Products in Categories - Part 1"

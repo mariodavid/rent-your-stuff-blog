@@ -1,7 +1,7 @@
 ---
 title: "#16 - Display Currency for Product Prices - Part 1"
 category: "Entity"
-date: "2021-03-04 09:00:00 +02:00"
+date: "2022-03-04 09:00:00 +02:00"
 desc: "Display Currency for Product Prices - Part 1"
 thumbnail: "./images/issue-16.jpg"
 alt: "#16 - Display Currency for Product Prices - Part 1"

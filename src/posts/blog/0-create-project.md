@@ -1,7 +1,7 @@
 ---
 title: "#0 - Create Project"
 category: "Intro"
-date: "2021-01-21 13:00:00 +02:00"
+date: "2022-01-21 13:00:00 +02:00"
 desc: "Walking Skeleton - Create Project"
 thumbnail: "./images/issue-0.jpg"
 alt: "#0 - Walking Skeleton - Create Project"

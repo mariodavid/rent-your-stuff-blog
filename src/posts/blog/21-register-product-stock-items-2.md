@@ -1,7 +1,7 @@
 ---
 title: "#21 - Register product stock items - Part 2 - Testing"
 category: "Testing"
-date: "2021-03-19 09:00:00 +02:00"
+date: "2022-03-19 09:00:00 +02:00"
 desc: "Register product stock items - Part 2 - Testing"
 thumbnail: "./images/issue-21.jpg"
 alt: "#21 - Register product stock items - Part 2 - Testing"

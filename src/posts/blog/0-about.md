@@ -1,7 +1,7 @@
 ---
 title: "#0 - About"
 category: "Intro"
-date: "2021-01-21 12:00:00 +09:00"
+date: "2022-01-21 12:00:00 +09:00"
 desc: "About the Jmix 'Rent your Stuff' Video Series"
 thumbnail: "./images/issue-0.jpg"
 alt: "#0 - About the Jmix 'Rent your Stuff' Video Series"

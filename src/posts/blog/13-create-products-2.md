@@ -1,7 +1,7 @@
 ---
 title: "#13 - Create Products - Part 2 - Product Prices"
 category: "Entity"
-date: "2021-02-27 09:00:00 +02:00"
+date: "2022-02-27 09:00:00 +02:00"
 desc: "Create Products - Part 2 - Product Prices"
 thumbnail: "./images/issue-13.jpg"
 alt: "#13 - Create Products - Part 2 - Product Prices"

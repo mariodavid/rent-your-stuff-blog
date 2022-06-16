@@ -1,7 +1,7 @@
 ---
 title: "#14 - Refactoring: Cleanup UI test interactions"
 category: "Testing"
-date: "2021-03-01 09:00:00 +02:00"
+date: "2022-03-01 09:00:00 +02:00"
 desc: "Refactoring: Cleanup UI test interactions"
 thumbnail: "./images/issue-14.jpg"
 alt: "#14 - Refactoring: Cleanup UI test interactions"
