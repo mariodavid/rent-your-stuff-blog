@@ -32,7 +32,7 @@ const CategoryFilter: React.FC<CategoryFilterProps> = ({ categoryList }) => {
       <Divider />
       <CategoryUl ref={categoryRef} className="invisible-scrollbar">
         {categoryList
-          .sort((a, b) => b.totalCount - a.totalCount)
+        .sort((a, b) => (a.fieldValue > b.fieldValue) ? 1 : -1)
           .map(category => {
             const { fieldValue } = category
             return (
