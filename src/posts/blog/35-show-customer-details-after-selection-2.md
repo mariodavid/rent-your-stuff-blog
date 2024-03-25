@@ -1,5 +1,5 @@
 ---
-title: "#35 - Show customer details after selection - Part 3"
+title: "#35 - Show customer details after selection - Part 2"
 category: "Testing"
 date: "2024-03-25 09:00:00 +02:00"
 desc: "Testing UI Logic"
